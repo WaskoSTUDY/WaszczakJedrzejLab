@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "repeat-string": "^1.6.1",
+    "string-fn": "^3.6.3",
+    "upper-case": "^2.0.2"
+  }
 }
